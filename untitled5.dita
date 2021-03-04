@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="untitled5">
+    <title>文档管理架构落地与实施</title>
+    <body>
+        <p>基于文档项目的目标，企业的文档管理架构需要从三个维度入手，即：<ul id="ul_x5x_dsf_54b">
+                <li>内容架构 – 深入细化项目文档的目标，制定文档写作策略。</li>
+                <li>工具架构 - 包括符合文档管理需求的编辑工具、文档获取渠道、及安全可靠的文档存储环境。</li>
+                <li>协作架构 – 糅合不同职能团队间的合作，以实现文档的多目的性的需要。</li>
+            </ul></p>
+    </body>
+</topic>
